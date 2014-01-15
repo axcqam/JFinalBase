@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?><project-modules id="moduleCoreId" project-version="1.5.0">
+    <wb-module deploy-name="JFinalBase">
+        <wb-resource deploy-path="/" source-path="/WebRoot" tag="defaultRootSource"/>
+        <wb-resource deploy-path="/WEB-INF/classes" source-path="/Routes"/>
+        <wb-resource deploy-path="/WEB-INF/classes" source-path="/Core"/>
+        <wb-resource deploy-path="/WEB-INF/classes" source-path="/ControllerSystem"/>
+        <wb-resource deploy-path="/WEB-INF/classes" source-path="/Resource"/>
+        <wb-resource deploy-path="/WEB-INF/classes" source-path="/ControllerFront"/>
+        <wb-resource deploy-path="/WEB-INF/classes" source-path="/ControllerManage"/>
+        <property name="java-output-path" value="/JFinalBase/WebRoot/WEB-INF/classes"/>
+        <property name="context-root" value="JFinalBase"/>
+    </wb-module>
+</project-modules>
