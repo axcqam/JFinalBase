@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <classpath>
 	<classpathentry kind="src" path="Core"/>
-	<classpathentry kind="src" path="Routes"/>
 	<classpathentry kind="src" path="ControllerSystem"/>
 	<classpathentry kind="src" path="ControllerManage"/>
 	<classpathentry kind="src" path="ControllerFront"/>

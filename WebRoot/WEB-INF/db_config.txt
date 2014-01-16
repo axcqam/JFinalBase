@@ -1,0 +1,3 @@
+jdbcUrl = jdbc:mysql://127.0.0.1/autumn?characterEncoding=GBK&zeroDateTimeBehavior=convertToNull
+username = root
+password = 

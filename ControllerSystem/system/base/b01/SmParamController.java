@@ -11,6 +11,7 @@ import system.model.SmParam;
  */
 public class SmParamController extends CoreController {
 
+	
 	/**
 	 * 默认方法查询数据
 	 */
